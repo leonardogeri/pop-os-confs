@@ -1,4 +1,4 @@
-# pop-os-confs
+# pop-os-setup
 
 After 5 years using Ubuntu extensively as my main operational system, I've decided that, in 2023, Pop!Os will be my go-to OS choice.  
 The productivity ecossystem was more-than-good-enough to convince me to give another chance for Pop!OS.  
