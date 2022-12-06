@@ -44,3 +44,7 @@ Audio production have always been a weaknesses of Linux distros. Since I'm a mus
 ## Web
 
 - **Google Chrome**
+
+# Configs
+
+1. Change scroll direction to natural
