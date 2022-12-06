@@ -21,12 +21,16 @@ bash install_apps.sh
 
 ## Software development and data science
 
+### Programming
 - **R:** A powerful language for running stats models
 - **Rstudio:** Best IDE for data science and ML in R
 - **VS Code:** General use IDE for writing software 
 
-## Version control 
+### Version control 
 - **Git desktop:** Shame on me... I really like the desktop version of Github.
+
+### Database
+- **DBeaver:** Open-source PostgreSQL client 
 
 ## Music and video production
 Audio production have always been a weaknesses of Linux distros. Since I'm a musician, I am concerned about the limitations of the OS. Those are the best apps I found for making music and video in Linux.
