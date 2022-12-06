@@ -1,9 +1,7 @@
 # pop-os-confs
 
-After 5 years using Ubuntu extensively as my main operational system, I've decided that, in 2023, Pop!Os will be my go-to OS choice. <br>
-
-The productivity ecossystem was more-than-good-enough to convince me to give another chance for Pop!OS. <br>
-
+After 5 years using Ubuntu extensively as my main operational system, I've decided that, in 2023, Pop!Os will be my go-to OS choice.  
+The productivity ecossystem was more-than-good-enough to convince me to give another chance for Pop!OS.  
 One of my main concern with changing OS was to reconfigure my entire system built in 2 years of software development and data science related jobs. Lookinf for good examples on how to document my OS environment, I found [this thread on Reedit](https://www.reddit.com/r/pop_os/comments/ukm74z/share_your_popos_specific_config_github_repo/), which motivated me to start my own configuration repository.  
 
 # Usage
