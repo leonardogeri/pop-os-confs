@@ -4,7 +4,7 @@ sudo apt update
 sudo apt install software-properties-common apt-transport-https wget
 wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
 sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
-sudo apt install code
+sudo apt install -y code
 sudo apt update
 sudo apt upgrade -y
 
@@ -55,3 +55,8 @@ sudo snap install wps-office
 sudo snap connect wps-office:removable-media
 sudo apt-get remove libreoffice-core -y
 sudo apt-get remove --purge libreoffice-core
+
+
+# install gparted
+
+sudo apt install -y gparted
