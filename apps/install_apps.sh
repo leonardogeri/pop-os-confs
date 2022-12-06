@@ -66,3 +66,6 @@ sudo apt install -y caffeine
 
 # install nordpass
 sudo snap install -y nordpas
+
+# install dbeaver (postgressql manager)
+sudo snap install dbeaver
