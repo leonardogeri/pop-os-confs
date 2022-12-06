@@ -60,3 +60,9 @@ sudo apt-get remove --purge libreoffice-core
 # install gparted
 
 sudo apt install -y gparted
+
+# install caffeine
+sudo apt install -y caffeine
+
+# install nordpass
+sudo snap install -y nordpas
