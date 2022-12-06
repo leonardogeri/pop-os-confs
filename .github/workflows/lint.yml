@@ -16,3 +16,8 @@ jobs:
         with:
           config: '.github/linters/.markdown-lint.yml'
           args: './README.md'
+  shell-lint:
+    name: Shell Linter
+    # You may pin to the exact commit or the version.
+    # uses: azohra/shell-linter@6bbeaa868df09c34ddc008e6030cfe89c03394a1
+    uses: azohra/shell-linter@v0.6.0
