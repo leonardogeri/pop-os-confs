@@ -51,7 +51,7 @@ make installHomeVST2^C
 wget -O discord.deb "https://discordapp.com/api/download?platform=linux&format=deb"
 
 # install wps-office and remove libreoffice
-sudo snap install wps-office
+sudo snap install -y wps-office
 sudo snap connect wps-office:removable-media
 sudo apt-get remove libreoffice-core -y
 sudo apt-get remove --purge libreoffice-core
