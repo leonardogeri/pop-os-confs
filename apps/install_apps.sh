@@ -1,3 +1,9 @@
+#!/bin/sh
+
+# install snap
+sudo apt update
+sudo apt install -y snapd
+
 # VS Code - Python libraries
 sudo snap install --classic code
 sudo apt update
